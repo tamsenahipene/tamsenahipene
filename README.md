@@ -4,4 +4,6 @@
 
 🌱 I’m currently learning AI-driven Cloud Data Engineering
 
+Please read my resume
+
 📫 How to reach me: tamsen.ahipene@gmail.com
