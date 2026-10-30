@@ -4,6 +4,6 @@
 
 🌱 I’m currently learning AI-driven Cloud Data Engineering
 
-Please read my resume
+Please read my resume here: https://github.com/tamsenahipene/tamsenahipene/blob/main/Resume.md
 
 📫 How to reach me: tamsen.ahipene@gmail.com
