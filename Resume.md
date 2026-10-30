@@ -37,5 +37,7 @@ Level 5 Diploma in Digital Media (Web and Graphic Design)
 
 Level 6 Diploma in Cloud Infrastructure
 
-2026
+
+<h3>2026</h3>
+
 Level 7 Diploma in Cloud Engineering
